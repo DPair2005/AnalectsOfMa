@@ -1,7 +1,7 @@
 # AnalectsOfMa
 analects of Ma
 
-## 记录经典马语
+## 记录经典马语（持续更新）
 
 1、一个好的 OI 选手，目标一定是要拿到 IOI 金牌。
 
