@@ -1,6 +1,5 @@
-  static long depth[N];
-  std::fill(depth+1, depth+n+1, 0x3f3f3f3f);
 # AnalectsOfMa
+
 analects of Ma
 
 ## 记录经典马语（持续更新）
