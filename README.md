@@ -1,3 +1,5 @@
+  static long depth[N];
+  std::fill(depth+1, depth+n+1, 0x3f3f3f3f);
 # AnalectsOfMa
 analects of Ma
 
@@ -70,3 +72,5 @@ analects of Ma
 33、啊，你到厕（二声）所里去给我反省去！
 
 34、只有我有 AK 的权利！
+
+35、今天爆零的是你，明天爆零的也是你！
